@@ -1,4 +1,5 @@
-#  Labrinth is a Python-based maze generation and solving tool. It uses algorithms to create and navigate mazes, providing a visual representation of both the labyrinth and the pathfinding process.
+#  Labrinth 
+is a Python-based maze generation and solving tool. It uses algorithms to create and navigate mazes, providing a visual representation of both the labyrinth and the pathfinding process.
 
 Features
 Maze Generation: Randomly generates mazes using various algorithms (e.g., recursive backtracking).
